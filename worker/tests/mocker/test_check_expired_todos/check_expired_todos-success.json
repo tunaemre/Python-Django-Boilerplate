@@ -1,0 +1,104 @@
+{
+	"success": true,
+	"message": "Operation completed.",
+	"code": null,
+	"data": [{
+		"id": "97404f11-2299-4556-90ae-17935591c338",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.809218Z",
+		"modified_date": "2023-02-17T11:45:30.809236Z",
+		"title": "YirPAmbvJpYNUYYWGFUWawxCzpxiYggwXNGbvDqkqsqbsMjaOY",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "93d394b9-d9b2-4df2-beed-c918838b1bda",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.808277Z",
+		"modified_date": "2023-02-17T11:45:30.808303Z",
+		"title": "uDauRChGyAuoPgHQJRkRQGGikBHiEubqmhZttjFlPNYVmuMbZV",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "837ff08d-3be2-4ad1-84a7-41a67df5454f",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.806960Z",
+		"modified_date": "2023-02-17T11:45:30.806976Z",
+		"title": "GSFAckbNNcyVxtMwzYdDcwxjWdjlshcOWjEUAeashZFYRWCoJM",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "2d2be029-ec17-4a23-b5a5-6aeea27b0531",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.806063Z",
+		"modified_date": "2023-02-17T11:45:30.806079Z",
+		"title": "OCqLodfXGvKtxBwtCbSXAEDQZGCzbWEDOhSIbaLyxHXixDyLRv",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "28831139-bebd-4a11-8be6-3742302536d8",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.805068Z",
+		"modified_date": "2023-02-17T11:45:30.805086Z",
+		"title": "OuBVjPNDQHikIIpyGclpPTJlblFDjOKeOABtHdXSJiROTarejh",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "ce7b0b28-c48b-4971-81d0-1da68b311a7c",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.803911Z",
+		"modified_date": "2023-02-17T11:45:30.803929Z",
+		"title": "xhTaToQSFqyKFtYurUFSofEIvHJPdaVOoPrONfGCDYPQPwlBVr",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}, {
+		"id": "e15f041f-1bc2-4b91-810e-98b1a03b5ce6",
+		"user": {
+			"id": "2ce779ab-142f-4485-bc71-d7b1bf992b82",
+			"sub_id": "ADZiRDIacdDmXkZXLeMgJwNDpFJOphTyjdtaRbvgttdOkuUKEJ",
+			"email": "mdgZTowrSR@example.com"
+		},
+		"created_date": "2023-02-17T11:45:30.802832Z",
+		"modified_date": "2023-02-17T11:45:30.802850Z",
+		"title": "KufbLjuFXLfiPfylPcWxOLwkzdsbCXABsiNgmUbjYpZiduRyma",
+		"description": null,
+		"valid_until": "2023-02-16T11:45:30.802471Z",
+		"todo_list": "eb7bea48-94df-4ff1-a96b-cd0467a4db5e",
+		"status": 1
+	}]
+}
